@@ -16,7 +16,3 @@ I’m always excited about opportunities that combine **system design, distribut
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, Jenkins, CI/CD  
 - **AI & ML:** PyTorch, TensorFlow, scikit-learn, Deep Learning, OpenAI API  
 
----
-
-### **Connect**
-[Email](mailto:vatelukunta@gmail.com)
