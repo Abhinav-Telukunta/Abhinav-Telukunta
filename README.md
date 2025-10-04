@@ -1,16 +1,22 @@
+# Hi, I'm Vijay Abhinav Telukunta  
 
-## Hi, I'm Abhinav Telukunta 👋  
-🌟  Master's Student at University of Florida
-🚀 I am passionate about building software and delivering products which impact people. Love problem solving and learning new stuff in tech!
+I'm a Software Engineer with a strong foundation in **Full Stack Development** and **Applied AI**, passionate about designing scalable systems and intelligent solutions that solve real-world problems.  
 
-### 🌟 Highlights:
-- **AI Skills**: Tensorflow, Keras, Natural Language Processing, Deep Learning, Neural Networks, Computer Vision, Generative AI, Langchain, Numpy, Pandas, Supervised and Unsupervised Learning.
-- **Frameworks and Tools**: React, Redux, Jest, Pytest, .NET, Nodejs, Flask, Git, Postman, Docker, Fast API, Selenium, Linux command line, Postgres, MongoDB, AWS, SpringBoot, Maven, Agile Methodologies, REST API’s, Web Sockets.
-- **Languages**: Java, Python, JavaScript, SQL, C, C++, Fsharp, HTML, XML.
-- Actively seeking opportunities in Full Stack Development and AI roles.
+My work spans developing **front-end applications using React and Angular**, building **robust backend microservices in Java**, and deploying containerized solutions using **Docker, Kubernetes, and AWS**. I focus on creating efficient, maintainable architectures that perform reliably in production environments.  
 
-### 🔗 Find Me:
-- [LinkedIn](https://www.linkedin.com/in/telukunta-vijay-abhinav/)
-- [Personal Email](mailto:abhi.telukunta@gmail.com)
-- [University Email](mailto:vtelukunta@ufl.edu)
+On the AI side, I specialize in **deep learning model development and integration**, leveraging frameworks such as **PyTorch, TensorFlow, and scikit-learn** for training, inference, and optimization. I'm also experienced in integrating **LLM-powered features using OpenAI APIs and related tools**, bridging the gap between traditional software systems and modern AI-driven capabilities.  
 
+I’m always excited about opportunities that combine **system design, distributed computing, and AI innovation**, where I can contribute to building reliable, high-performance software that scales intelligently.  
+
+---
+
+### **Technical Focus Areas**
+- **Frontend:** React, Angular, TypeScript, Redux  
+- **Backend:** Java, Spring Boot, Go, REST APIs, Microservices  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, Jenkins, CI/CD  
+- **AI & ML:** PyTorch, TensorFlow, scikit-learn, Deep Learning, OpenAI API  
+
+---
+
+### **Connect**
+📫 [LinkedIn](https://www.linkedin.com/in/telukunta-vijay-abhinav/) | [Email](mailto:vatelukunta@gmail.com)
