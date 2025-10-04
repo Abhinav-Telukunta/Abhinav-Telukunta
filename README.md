@@ -19,4 +19,4 @@ I’m always excited about opportunities that combine **system design, distribut
 ---
 
 ### **Connect**
-📫 [LinkedIn](https://www.linkedin.com/in/telukunta-vijay-abhinav/) | [Email](mailto:vatelukunta@gmail.com)
+[Email](mailto:vatelukunta@gmail.com)
