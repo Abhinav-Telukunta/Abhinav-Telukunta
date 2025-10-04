@@ -1,4 +1,4 @@
-# Hi, I'm Vijay Abhinav Telukunta  
+# Hi, I'm Abhinav Telukunta  
 
 I'm a Software Engineer with a strong foundation in **Full Stack Development** and **Applied AI**, passionate about designing scalable systems and intelligent solutions that solve real-world problems.  
 
